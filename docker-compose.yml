@@ -1,0 +1,4 @@
+version: "2"
+services:
+  app:
+    image: nonchalant/swiftbot:4.1

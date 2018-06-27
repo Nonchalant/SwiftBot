@@ -1,0 +1,12 @@
+### OSX ###
+
+.DS_Store
+
+### Swift ###
+
+/.build
+/DerivedData
+/.env
+/Packages
+/*.xcodeproj
+/*.tar.gz
