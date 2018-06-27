@@ -66,11 +66,11 @@
       },
       {
         "package": "SlackKit",
-        "repositoryURL": "https://github.com/SlackKit/SlackKit",
+        "repositoryURL": "https://github.com/Nonchalant/SlackKit.git",
         "state": {
-          "branch": null,
-          "revision": "c2f3731a69df85f852d089839edd14b6ed461b02",
-          "version": "4.1.0"
+          "branch": "linux_compile_error",
+          "revision": "0cc8acdb9e19d954724d6e072bc9d38fa647a404",
+          "version": null
         }
       },
       {

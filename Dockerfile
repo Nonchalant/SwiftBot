@@ -8,7 +8,7 @@ ENV MEMBER_ID=${MEMBER_ID}
 
 USER root
 COPY ./Sources /SwiftBot/Sources
-COPY ./Package.swift /SwiftBot/Package.swift
+COPY ./Package.swift ./Package.resolved /SwiftBot/
 
 WORKDIR /SwiftBot
 RUN swift build
